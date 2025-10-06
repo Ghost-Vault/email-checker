@@ -6,3 +6,6 @@ The full version (with domain lookup, social scan & WHOIS parser) is available f
 
 📧 Contact: szghost@duck.com  
 🛡️ Developer: Ghost Vault
+
+## License
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
